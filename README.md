@@ -1,4 +1,4 @@
-Sup — I’m Nick Ng (pronounced ‘ing’) and I use he/him/his pronouns. If I could live in any city, it would be pre-Yahoo Geocities.
+Sup — I’m Nick Ng (pronounced ‘ing’) and my pronouns are he/him/his. If I could live in any city, it would be pre-Yahoo Geocities.
 
 This README is a work-in-progress, which I hope that it will be useful for anyone who collobrates with me.
 
@@ -18,7 +18,7 @@ I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary l
 
 ## Time zone and scheduling
 
-Central Time (CT) is my jam. 🤘  I appreciate a 24-hour notice before secheduling a meeting, and ideally, my schedule would look like this ...
+Central Time (CT) zone is my jam. 🤘  I appreciate a 24-hour notice before scheduling a meeting, and ideally, my schedule would look like this ...
 
 |Mornings 🌅|Late mornings and afternoons ☀️|Late afternoons 🌇|hoot, hoot🦉🌌|
 |---|---|---|---|
@@ -29,9 +29,11 @@ Central Time (CT) is my jam. 🤘  I appreciate a 24-hour notice before sechedul
 - Communication
 - Technical
 - Accountability and feedback
-- You can lean on me to
+- You can lean on me to ...
 - Growth areas
 
+---
+This personal README is inspired by Alex Soble's _[READMEs for you and me](https://18f.gsa.gov/2020/03/05/readmes-for-you-and-me/)_
 
 <!--
 
