@@ -33,6 +33,7 @@ For others like Facebook and Instagram, I might return someday.
 ## To be added or determined
 
 - Communication
+- Responsibilities 
 - Technical
 - Accountability and feedback
 - Information for ASL interpreters
