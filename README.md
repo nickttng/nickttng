@@ -12,6 +12,11 @@ This README is a work-in-progress, which I hope that it will be useful for anyon
 In another dimension where software isn’t eating the world — career-wise, I would somehow find a way to have a dim sum teahouse / tempura bar in the spirit of [Midnight Diner: Tokyo Stories](https://www.youtube.com/watch?v=OCGDVHjPX0c).
 
 
+## Social Media
+
+Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. For others like Facebook and Instagram, I might return someday.
+
+
 ## Disability
 
 I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech therapy for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.”
