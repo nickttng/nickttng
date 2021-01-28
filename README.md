@@ -29,6 +29,7 @@ Central Time (CT) zone is my jam. 🤘  I appreciate a 24-hour notice before sch
 - Communication
 - Technical
 - Accountability and feedback
+- Information for ASL interpreters
 - You can lean on me to ...
 - Growth areas
 
