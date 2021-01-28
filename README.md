@@ -24,9 +24,11 @@ Central Time (CT) zone is my jam. 🤘  I appreciate a 24-hour notice before sch
 |---|---|---|---|
 |Heads down time, standups and/or brief 1:1 meetings|Large meetings and/or workshops|Heads down time, virtual tea/coffee/fika, informal 1:1s|Being a nightowl, I occasionally relax my mind by working on low-hanging fruits.|
 
-## Social Media
+## Social platforms
 
-Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. For others like Facebook and Instagram, I might return someday.
+Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. I am also on [Goodreads](https://www.goodreads.com/user/show/5682026-nick-ng).
+
+For others like Facebook and Instagram, I might return someday.
 
 ## To be added or determined
 
