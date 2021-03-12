@@ -14,7 +14,7 @@ In another dimension where software isn’t eating the world — career-wise, I 
 
 ## Disabilities
 
-I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech therapy for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.” Also, amblyopia that decreases vision in one of my eyes. 
+I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech/auditory training for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.” Also, amblyopia that decreases vision in one of my eyes. 
 
 ## Time zone and scheduling
 
