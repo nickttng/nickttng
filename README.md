@@ -26,9 +26,10 @@ Central Time (CT) zone is my jam. 🤘  I appreciate a 24-hour notice before sch
 
 ## Social platforms
 
-Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. I am also on [Goodreads](https://www.goodreads.com/user/show/5682026-nick-ng).
+Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. I am also on these:
 
-For others like Facebook and Instagram, I might return someday.
+- [Goodreads](https://www.goodreads.com/user/show/5682026-nick-ng)
+- [Are.na](https://www.are.na/nick-ng)
 
 ## To be added or determined
 
