@@ -3,6 +3,7 @@ Sup — I’m Nick Ng (pronounced ‘ing’) and my pronouns are he/him/his. If 
 This README is a work-in-progress, which I hope that it will be useful for anyone who collobrates with me.
 
 - 🔭  I’m currently at [18F](https://18f.gsa.gov/), working on [login.gov](https://login.gov)
+  - For work colleagues: I made a [worklog](https://docs.google.com/document/d/10EoxKMMKRKQA7y0WnyjFLJdGWz0XZKw3skW-Q1EFD-M/edit?usp=sharing)🔒       
 - 🌱  I’m currently thinking about
   - Accessibility challenges and opportunities of biometrics
   - Open Location Code (OLC) and non-traditional residencies
