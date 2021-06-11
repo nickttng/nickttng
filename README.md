@@ -1,13 +1,12 @@
-Sup — I’m Nick Ng (pronounced ‘ing’) and my pronouns are he/him/his. If I could live in any city, it would be pre-Yahoo Geocities.
+Greetings Starbeing — I’m Nick Ng (pronounced ‘ing’) and my pronouns are he/him/his. If I could live in any city, it would be pre-Yahoo Geocities.
 
 This README is a work-in-progress, which I hope that it will be useful for anyone who collobrates with me.
 
-- 🔭  I’m currently at [18F](https://18f.gsa.gov/), working on [login.gov](https://login.gov)
-  - For work colleagues: I made a [worklog](https://docs.google.com/document/d/10EoxKMMKRKQA7y0WnyjFLJdGWz0XZKw3skW-Q1EFD-M/edit?usp=sharing)🔒       
-- 🌱  I’m currently thinking about
-  - Accessibility challenges and opportunities of biometrics
-  - Open Location Code (OLC) and non-traditional residencies
-  - Solarpunk
+- I work on [login.gov](https://login.gov), improving government digital identity experience for the American public 
+  - Prevously a product design practice lead at [18F](https://18f.gsa.gov/)
+- I’m currently thinking about
+  - Accessibility challenges and opportunities of biometrics and authenticators
+  - Experience of those with non-traditional residencies
   - Omurice, omurice, omurice 🍳🍚🔴
   
 In another dimension where software isn’t eating the world — career-wise, I would somehow find a way to have a dim sum teahouse / tempura bar in the spirit of [Midnight Diner: Tokyo Stories](https://www.youtube.com/watch?v=OCGDVHjPX0c).
@@ -15,7 +14,7 @@ In another dimension where software isn’t eating the world — career-wise, I 
 
 ## Disabilities
 
-I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech/auditory training for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.” Also, amblyopia that decreases vision in one of my eyes. 
+I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech/auditory training for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.” Also, amblyopia that decreases vision in one of my eyes.
 
 ## Time zone and scheduling
 
