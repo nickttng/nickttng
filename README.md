@@ -4,6 +4,7 @@ This README is a work-in-progress, which I hope that it will be useful for anyon
 
 - I work on [login.gov](https://login.gov), improving government digital identity experience for the American public 
   - Prevously a product design practice lead at [18F](https://18f.gsa.gov/)
+  - Currently, a co-organizer lead at [A11yChi](https://www.meetup.com/a11ychi/)
 - I’m currently thinking about
   - Accessibility challenges and opportunities of biometrics and authenticators
   - Experience of those with non-traditional residencies
