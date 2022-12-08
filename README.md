@@ -31,6 +31,7 @@ Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. I am also on these:
 
 - [Goodreads](https://www.goodreads.com/user/show/5682026-nick-ng)
 - [Are.na](https://www.are.na/nick-ng)
+- [Discogs](https://www.discogs.com/user/gh0stnote)
 
 ## To be added or determined
 
