@@ -2,7 +2,7 @@ Greetings Starbeing — I’m Nick Ng (pronounced ‘ing’) and my pronouns are
 
 This README is a work-in-progress, which I hope that it will be useful for anyone who collobrates with me.
 
-- I work on [Login.gov](https://login.gov) as a UX vertical lead for [redacted], improving government digital identity experience for the American public 
+- I work on [Login.gov](https://login.gov) as a UX Ops product owner, improving government digital identity experience for the American public 
   - Prevously a product design practice lead at [18F](https://18f.gsa.gov/)
   - Currently, a co-organizer at [A11yChi](https://www.meetup.com/a11ychi/)
 - I’m currently thinking about
@@ -11,7 +11,6 @@ This README is a work-in-progress, which I hope that it will be useful for anyon
   - Omurice, omurice, omurice 🍳🍚🔴
   
 In another dimension where software isn’t digesting the world — career-wise, I would somehow find a way to have a dim sum teahouse / tempura bar in the spirit of [Midnight Diner: Tokyo Stories](https://www.youtube.com/watch?v=OCGDVHjPX0c).
-
 
 ## Disabilities
 
