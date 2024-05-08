@@ -16,14 +16,6 @@ In another dimension where software isn’t digesting the world — career-wise,
 
 I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech/auditory training for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.” Also, amblyopia that decreases vision in one of my eyes.
 
-## Time zone and scheduling
-
-Central Time (CT) zone is my jam. 🤘  I appreciate a 24-hour notice before scheduling a meeting, and ideally, my schedule would look like this ...
-
-|Mornings 🌅|Late mornings and afternoons ☀️|Late afternoons 🌇|hoot, hoot🦉🌌|
-|---|---|---|---|
-|Heads down time, standups and/or brief 1:1 meetings|Large meetings and/or workshops|Heads down time, virtual tea/coffee/fika, informal 1:1s|Being a nightowl, I occasionally relax my mind by working on low-hanging fruits.|
-
 ## Social platforms
 
 Say hi [@nickttng](https://twitter.com/nickttng) on Twitter. I am also on these:
