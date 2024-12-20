@@ -2,13 +2,19 @@ Greetings Starbeing — I’m Nick Ng (pronounced ‘ing’) and my pronouns are
 
 This README is a work-in-progress, which I hope that it will be useful for anyone who collobrates with me.
 
-- I work on [Login.gov](https://login.gov) as a UX Ops lead, improving government digital identity experience for the American public 
-  - Prevously a product design practice lead at [18F](https://18f.gsa.gov/)
-  - Currently, a co-organizer at [A11yChi](https://www.meetup.com/a11ychi/)
-- I’m currently thinking about
+- I work on [Login.gov](https://login.gov) as a UX Ops lead, improving government digital identity experience for the American public    
+  - Soon, learning HCI-AI Systems
+  - On hiatus, a co-organizer at [A11yChi](https://www.meetup.com/a11ychi/)
+  - Previously, a product design practice lead at [18F](https://18f.gsa.gov/)
+- I think about
   - Accessibility challenges and opportunities of biometrics and authenticators
-  - Experience of those with non-traditional residencies
-  - Omurice, omurice, omurice 🍳🍚🔴
+  - Threat modeling for UX
+  - Throwing and being thrown in Judo training
+    - Ground fighting is one of the best ways to be exhausted 
+  - Food insecurity, which I volunteer (with amazing individuals) to co-organize a local community pantry
+- In the past
+  - Thought about the experience of those with non-traditional residencies
+  - Often craved omurice, omurice, omurice 🍳🍚🔴
   
 In another dimension where software isn’t digesting the world — career-wise, I would somehow find a way to have a dim sum teahouse / tempura bar in the spirit of [Midnight Diner: Tokyo Stories](https://www.youtube.com/watch?v=OCGDVHjPX0c).
 
