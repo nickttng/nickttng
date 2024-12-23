@@ -1,26 +1,28 @@
-Greetings Starbeing — I’m Nick Ng (pronounced ‘ing’) and my pronouns are he/him/his. If I could live in any city, it would be pre-Yahoo Geocities.
+Greetings, Starbeing 👾 — Hi, I’m Nick Ng (pronounced ing)—my pronouns are he/him/his. If I could live in any city, it would be pre-Yahoo Geocities.
 
-This README is a work-in-progress, which I hope that it will be useful for anyone who collobrates with me.
+This README is a work-in-progress, but I hope it proves helpful to anyone collaborating with me. Here's a glimpse into who I am and what I care about:
 
-- I work on [Login.gov](https://login.gov) as a UX Ops lead, improving government digital identity experience for the American public    
-  - Soon, learning HCI-AI Systems
-  - On hiatus, a co-organizer at [A11yChi](https://www.meetup.com/a11ychi/)
-  - Previously, a product design practice lead at [18F](https://18f.gsa.gov/)
-- I think about
-  - Accessibility challenges and opportunities of biometrics and authenticators
-  - Threat modeling for UX
+What I do
+  - UX Ops Lead at Login.gov, improving government digital identity experience for the American public
+  - Soon: Explore HCI-AI Systems via Cambridge (Online)
+
+What I think about
+  - Accessibility challenges and opportunities in biometrics and authenticators
+  - Threat modeling for UX - risks and care
   - Throwing and being thrown in Judo training
-    - Ground fighting is one of the best ways to be exhausted 
-  - Food insecurity, which I volunteer (with amazing individuals) to co-organize a local community pantry
-- In the past
-  - Thought about the experience of those with non-traditional residencies
-  - Often craved omurice, omurice, omurice 🍳🍚🔴
+    - Newaza, also, is one of the most exhausting - and satisfying - experiences.
+  - Food (in)security: I volunteer alongside incredible people to co-organize a local community pantry
+
+In the past
+  - On hiatus: [Accessibility Chicago (A11yChi)](https://www.meetup.com/a11ychi/) co-organizer lead
+  - Served as a product design practice lead at [18F](https://18f.gsa.gov/)
+  - Craved omurice, omurice, omurice 🍳🍚🔴
   
 In another dimension where software isn’t digesting the world — career-wise, I would somehow find a way to have a dim sum teahouse / tempura bar in the spirit of [Midnight Diner: Tokyo Stories](https://www.youtube.com/watch?v=OCGDVHjPX0c).
 
 ## Disabilities
 
-I am deaf/hard-of-hearing (DHH). Culturally, I identify as Deaf and my primary language is American Sign Language (ASL). Regarding English spoken language, I had speech/auditory training for 15 years and am still struggling to pronounce words from time to time, like “supercalifragilisticexpialidocious.” Also, amblyopia that decreases vision in one of my eyes.
+I am Deaf/Hard of Hearing (DHH) and culturally identify as Deaf. My primary language is American Sign Language (ASL). As for spoken English, I had 15 years of speech and auditory training but still occasionally struggle with pronunciation—like tackling tongue twisters such as “supercalifragilisticexpialidocious.” Additionally, I have amblyopia, which reduces vision in one of my eyes.
 
 ## Social platforms
 
